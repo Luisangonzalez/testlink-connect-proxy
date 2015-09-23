@@ -1,42 +1,36 @@
 {
-  "name": "testlink-connect",
-  "version": "0.5.3",
-  "description": "Connect to Testlink APIs through NodeJS",
-  "dependencies": {
-    "JSONPath": "*",
-    "simpleconvert-xml": "*",
-    "xmldom": "*",
-    "xpath": "*"
-  },
-  "devDependencies":{
-      "should": "*"
-  },
-  "keywords": [
-    "testlink","test","testlink-api","testlink-connect"
-  ],
-  "author": "Jason Mavandi",
-  "contributors": [
-    {
-      "name": "Jason Mavandi",
-      "email": "mvndaai@gmail.com"
-    }
-  ],
-  "maintainers": [
-    {
-      "name": "Jason Mavandi"
-    }
-  ],
+    "name": "testlink-connect-proxy",
+    "version": "0.5.4",
+    "description": "Connect to Testlink APIs through NodeJS",
+    "dependencies": {
+        "JSONPath": "*",
+        "simpleconvert-xml": "*",
+        "xmldom": "*",
+        "xpath": "*"
+    },
+    "devDependencies": {
+        "should": "*"
+    },
+    "keywords": [
+        "testlink", "test", "testlink-api", "testlink-connect"
+    ],
+    "author": "Jason Mavandi",
+    "contributors": [{
+        "name": "Jason Mavandi",
+        "email": "mvndaai@gmail.com"
+    }],
+    "maintainers": [{
+        "name": "Jason Mavandi"
+    }],
     "repository": {
-    "type": "git",
-    "url": "https://github.com/mvndaai/testlink-connect"
-  },
-  "bugs": {
-    "url": "https://github.com/mvndaai/testlink-connect/issues"
-  },
-  "licenses": [
-    {
-      "type": "Apache V2.0",
-      "url": "http://www.apache.org/licenses/LICENSE-2.0"
-    }
-  ]
+        "type": "git",
+        "url": "https://github.com/mvndaai/testlink-connect"
+    },
+    "bugs": {
+        "url": "https://github.com/mvndaai/testlink-connect/issues"
+    },
+    "licenses": [{
+        "type": "Apache V2.0",
+        "url": "http://www.apache.org/licenses/LICENSE-2.0"
+    }]
 }
