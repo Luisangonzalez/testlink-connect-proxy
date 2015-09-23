@@ -32,5 +32,8 @@
     "licenses": [{
         "type": "Apache V2.0",
         "url": "http://www.apache.org/licenses/LICENSE-2.0"
-    }]
+    }],
+    "publishConfig": {
+        "registry": "http://npm.bqsoftware.net:4873/"
+    }
 }
