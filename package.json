@@ -24,16 +24,16 @@
     }],
     "repository": {
         "type": "git",
-        "url": "https://github.com/mvndaai/testlink-connect"
+        "url": "https://github.com/Luisangonzalez/testlink-connect-proxy"
     },
     "bugs": {
-        "url": "https://github.com/mvndaai/testlink-connect/issues"
+        "url": "https://github.com/Luisangonzalez/testlink-connect-proxy"
     },
     "licenses": [{
         "type": "Apache V2.0",
         "url": "http://www.apache.org/licenses/LICENSE-2.0"
     }],
     "publishConfig": {
-        "registry": "http://npm.bqsoftware.net:4873/"
+        "registry": "https://www.npmjs.com/~luisangonzalez"
     }
 }
