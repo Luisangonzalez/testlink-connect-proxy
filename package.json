@@ -32,8 +32,5 @@
     "licenses": [{
         "type": "Apache V2.0",
         "url": "http://www.apache.org/licenses/LICENSE-2.0"
-    }],
-    "publishConfig": {
-        "registry": "https://www.npmjs.com/~luisangonzalez"
-    }
+    }]
 }
